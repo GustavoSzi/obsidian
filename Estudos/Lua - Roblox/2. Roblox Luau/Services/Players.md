@@ -1,0 +1,3 @@
+Entre as pastas do jogo, temos a pasta "Players". Este é um serviço onde ficam armazenados todos os jogadores na experiência atual. Também contém informações sobre a configuração de um lugar. Este serviço pode pegar informações sobre jogadores que não estejam conectados ao servidos, como aparência de personagens, amigos e avatares.
+
+> Documentação do serviço [Players](https://create.roblox.com/docs/reference/engine/classes/Players)
